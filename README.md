@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, spring boot technologies
 - 🌱 I’m currently learning springboot, microservices, leaning spanish language also
 - 💞️ I’m looking to collaborate on springboot and microservices.
-- 📫 How to reach me - moganevikas@gmail.com/ +91 9552528249 (whatsapp number)
+- 📫 How to reach me - moganevikas@gmail.com/ https://www.linkedin.com/in/vikasmogane/
 
 <!---
 VikasMogane/VikasMogane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
