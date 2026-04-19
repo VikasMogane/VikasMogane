@@ -5,7 +5,7 @@
 - 📫 How to reach me - moganevikas@gmail.com/ https://www.linkedin.com/in/vikasmogane/
 
 
-Achievement (Jan 2025 – Sep 2025)
+🌱🌱Achievement (Jan 2025 – Sep 2025)🌱🌱
 1. Completed 236 days of continuous learning (12 books)
 2. Built 18+ hands-on projects (Java, Spring Boot, Microservices, Kafka, Docker)
 3. Achieved 77 WPM typing speed with 98.2% accuracy
