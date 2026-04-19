@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasMogane
 - 👀 I’m interested in java, spring boot technologies
-- 🌱 I’m currently learning springboot, microservices, spanish Learner
+- 🌱Worked on Spring Boot, Microservices, Java 17, Kafka, Kubernetes , CICD, Azure
 - 💞️ I’m looking to collaborate on springboot and microservices.
 - 📫 How to reach me - moganevikas@gmail.com/ https://www.linkedin.com/in/vikasmogane/
 
